@@ -1,4 +1,4 @@
-/*  Testing on Version: L2021.3.0
+/*  Tested on Version: L2021.3.0
 
     Applies styles to all dashboard widgets to give
     the dashboard a "card view" appearance.
