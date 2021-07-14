@@ -11,6 +11,7 @@ const _hideWidgetBoundariesStyles = {
 };
 
 
+// fired when a widget refresh ends
 widget.on('refreshed', function (w) {
     $(element).css(_hideWidgetBoundariesStyles);
     $(element).parent().css(_hideWidgetBoundariesStyles);

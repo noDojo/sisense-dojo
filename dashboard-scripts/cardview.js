@@ -27,6 +27,7 @@ const _stylesForAllWidgets = {
 };
 
 
+// fired for each of the dashboard's widgets when each is initialized
 dashboard.on('widgetinitialized', function (w) {
     // from the dom, remove dividers and each widget's draggable handle
     $('.dashboard-layout-cell-horizontal-divider, .ui-resizable-handle').remove();
