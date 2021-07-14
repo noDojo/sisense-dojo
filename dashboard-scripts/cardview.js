@@ -1,6 +1,5 @@
-/* Testing on Version: L2021.3.0 */
+/*  Testing on Version: L2021.3.0
 
-/*
     Applies styles to all dashboard widgets to give
     the dashboard a "card view" appearance.
 */
@@ -26,6 +25,7 @@ const _borderRadiusForAllWidgets = '6px';
 const _stylesForAllWidgets = {
     'border-radius': _borderRadiusForAllWidgets
 };
+
 
 dashboard.on('widgetinitialized', function (w) {
     // from the dom, remove dividers and each widget's draggable handle
