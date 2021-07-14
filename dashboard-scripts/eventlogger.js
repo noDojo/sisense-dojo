@@ -5,6 +5,9 @@
 
     NOTE: Some arguments may be passed in inside of an object.
           Locating these handler args is a wip.
+
+    RELEVANT SISENSE DOCUMENTATION:
+    https://sisense.dev/reference/js/dashboard/dashboard-widgets.html
 */
 
 const _logEventDetails = false;
