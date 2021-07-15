@@ -1,0 +1,121 @@
+{
+    "advancedNewFile.exclude": {
+      "node_modules": true,
+      "dist": true
+    },
+    "advancedNewFile.showInformationMessages": true,
+    "advancedNewFile.convenienceOptions": ["last", "current", "root"],
+    "cssrem.autoRemovePrefixZero": false,
+    "debug.javascript.usePreview": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "editor.parameterHints.enabled": false,
+    "editor.rulers": [80, 100, 120],
+    "editor.wrappingIndent": "indent",
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "extensions.ignoreRecommendations": true,
+    "fileutils.typeahead.enabled": true,
+    "formattingToggle.affects": ["formatOnPaste", "formatOnSave", "formatOnType"],
+    "html.format.enable": true,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.wrapAttributes": "aligned-multiple",
+    "javascript.format.enable": true,
+    "javascript.preferences.quoteStyle": "single",
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.vueIndentScriptAndStyle": false,
+    "search.exclude": {
+      "**/node_modules": true
+    },
+    "synthwave84.brightness": 0.45,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "TerminessTTF Nerd Font",
+    "terminal.integrated.rendererType": "dom",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "todohighlight.defaultStyle": {
+      "color": "#00ffff",
+      "backgroundColor": "#1e1e1e",
+      "overviewRulerColor": "#1e1e1e",
+      "cursor": "pointer",
+      "isWholeLine": false,
+      "fontWeight": "900",
+      "textDecoration": "underline overline dotted"
+    },
+    "todohighlight.exclude": [
+      "**/node_modules/**",
+      "**/bower_components/**",
+      "**/dist/**",
+      "**/build/**",
+      "**/.vscode/**",
+      "**/.github/**",
+      "**/_output/**",
+      "**/*.min.*",
+      "**/*.map",
+      "**/.next/**"
+    ],
+    "todohighlight.include": [
+      "**/*.js",
+      "**/*.ts",
+      "**/*.html",
+      "**/*.css",
+      "**/*.scss"
+    ],
+    "todohighlight.isCaseSensitive": false,
+    "todohighlight.keywords": [
+      "DEBUG:",
+      "REVIEW:",
+      {
+        "text": "NOTE:",
+        "color": "#ffff00"
+      },
+      {
+        "text": "HACK:",
+        "color": "#ff9900"
+      },
+      {
+        "text": "QUESTION:",
+        "color": "#099fff"
+      },
+      {
+        "text": "FIXME:",
+        "color": "#ff0000",
+        "backgroundColor": "#1e1e1e"
+      },
+      {
+        "text": "TODO:",
+        "color": "#00ff00",
+        "backgroundColor": "#1e1e1e"
+      }
+    ],
+    "todohighlight.maxFilesForSearch": 5120,
+    "todohighlight.toggleURI": false,
+    "typescript.preferences.quoteStyle": "single",
+    "vetur.format.defaultFormatter.ts": "none",
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.enable": true,
+    "vetur.format.scriptInitialIndent": false,
+    "vetur.format.styleInitialIndent": false,
+    "window.title": "${activeEditorMedium}${separator}${rootPath}",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Activate UMBRA protocol",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "terminal.integrated.fontSize": 14
+  }
+  
