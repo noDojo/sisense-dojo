@@ -16,7 +16,11 @@
 
 ### Plugins
 
+[Sisense-Plugins/new-widget-template](https://gitlab.com/Sisense-Plugins/new-widget-template)
+
 [wparam/sisense-plugins](https://github.com/wparam/sisense-plugins)
+
+[AdiLew/Sisense_Projects](https://github.com/AdiLew/Sisense_Projects)
 
 ## External resources
 
