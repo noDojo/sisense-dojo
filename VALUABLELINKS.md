@@ -14,6 +14,10 @@
 
 [nburleigh6/sisense](https://github.com/nburleigh6/sisense)
 
+### Plugins
+
+[wparam/sisense-plugins](https://github.com/wparam/sisense-plugins)
+
 ## External resources
 
 [Highcharts JS API Reference](https://api.highcharts.com/highcharts/)
