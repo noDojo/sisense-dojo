@@ -25,7 +25,7 @@
 ## External resources
 
 Quoted from the [Sisense Support Docs](https://support.sisense.com/kb/en/article/extend-the-functionality-of-an-existing-widget)
-> Several of the charts used in Sisense (Column, Bar, Area, Pie, Polar, and Scatter widgets) leverage Highcharts behind the scenes.
+> Several of the charts used in Sisense (Column, Bar, Area, Pie, Polar, and Scatter widgets) leverage Highcharts behind the scenes.  This means that any of these chart types can be easily manipulated using the Highcharts API.  Catch the processresult or render event and look for the result variable (for processresult) or queryResult variable (for render).  This will be the equivalent of $("#container").highcharts( { } ) in the Highcharts API.  Once you have this object, you can customize it using any of Highchart's available options.
 
 [Highcharts JS API Reference](https://api.highcharts.com/highcharts/)
 
