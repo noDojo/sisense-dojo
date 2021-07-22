@@ -24,7 +24,12 @@
 
 ## External resources
 
+Quoted from the [Sisense Support Docs](https://support.sisense.com/kb/en/article/extend-the-functionality-of-an-existing-widget)
+> Several of the charts used in Sisense (Column, Bar, Area, Pie, Polar, and Scatter widgets) leverage Highcharts behind the scenes.
+
 [Highcharts JS API Reference](https://api.highcharts.com/highcharts/)
+
+[Highcharts Documentation](https://highcharts.com/docs/index)
 
 ## Sisense documentation, articles, and community posts
 
