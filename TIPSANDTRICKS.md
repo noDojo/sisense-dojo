@@ -1,6 +1,6 @@
 # The Sisense Front-End: Tips & Tricks
 
-<em>Tested on Version: L2021.3.0</em>
+<em>Tested on Version: L2021.3.0 (note: the share option mentioned in step 2 is no longer available in version L2021.7)</em>
 
 ### Steps to create, import, and use globally accessible stylesheets:
 
