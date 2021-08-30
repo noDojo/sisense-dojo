@@ -1,3 +1,11 @@
+/*  Tested on Version: L2021.7.0
+
+    Injects html into the DOM to create tabs that trigger
+    a switch to another dashboard. A copy of this code
+    would need to be added to the top widget on the other
+    dashboard to provide a way for the user to navigate
+    back to the original dashboard.
+*/
 
 const _dashboardTwoId = "dashboardtowidgoeshere";
 
