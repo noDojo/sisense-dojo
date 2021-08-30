@@ -43,4 +43,7 @@ dashboard.on('widgetinitialized', function (w) {
 
     // round the corners of all widgets on the dashboard
     $('widget').css(_stylesForAllWidgets);
+
+    // set info buttons to display at all time instead of just on hover
+    $('div.dashboard-layout:not(.editing) widget widget-toolbar:not(.widget-toolbar--show-menu) .widget-toolbar-btn').css('opacity', '1');
 });
